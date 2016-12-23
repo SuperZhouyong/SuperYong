@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_item_checked.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.3.2\\res\\drawable\\selector_item_checked.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_note_buycd.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\shape_note_buycd.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_undobarselected.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\shape_undobarselected.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\triangle_right.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\triangle_right.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_clear.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\btn_clear.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_kitkat_undobutton.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\selector_kitkat_undobutton.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_corners_bg_nor.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.2\\res\\drawable\\smssdk_corners_bg_nor.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_guide_selector.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\btn_guide_selector.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.2\\res\\drawable\\md_item_selected.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected_dark.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.2\\res\\drawable\\md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\btn.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_black.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_kitkat_black.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_red_pressed.9.png",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\button_red_pressed.9.png"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_transparent.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.2\\res\\drawable\\md_transparent.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_green.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_kitkat_green.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panel.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\panel.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_bg.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\round_corner_bg.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_close_large.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\popup_close_large.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_edittext_bg_selector.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.2\\res\\drawable\\smssdk_edittext_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected_dark.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.2\\res\\drawable\\md_item_selected_dark.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_drawable.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\progress_drawable.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_white.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_kitkat_white.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_note_buycd_soml.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\shape_note_buycd_soml.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\triangle_bottom.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\triangle_bottom.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_readbook_selector.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\tab_readbook_selector.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_progressbar.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buy_read_detil.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\buy_read_detil.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_kitkat_undobarfocused.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\shape_kitkat_undobarfocused.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_gray.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\selector_gray.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\readbook_item.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\readbook_item.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\link_default.9.png",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\link_default.9.png"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_translate.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\popup_translate.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_readdetil_startbook.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\shape_readdetil_startbook.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_kitkat_square_undobarfocused.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\shape_kitkat_square_undobarfocused.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.2\\res\\drawable\\md_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slde_nav_bar.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\slde_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_bookmark.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\popup_bookmark.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_red.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_kitkat_red.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_copy.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\popup_copy.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_settingitem_nomel.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\shape_settingitem_nomel.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_liaojiegengduo.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\shape_liaojiegengduo.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_undobutton.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\selector_undobutton.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_mybook_selector.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\tab_mybook_selector.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linearlayout_corner.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\linearlayout_corner.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_close.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\popup_close.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_blue.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_standard_blue.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_pressed.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\rect_pressed.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\triangle_left.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\triangle_left.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\triangle_top.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\triangle_top.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_loading_login_deit.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\shape_loading_login_deit.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\free_se_read_detil.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\free_se_read_detil.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_red_normal.9.png",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\button_red_normal.9.png"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_login_edit.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\shape_login_edit.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_dialog_progressbar.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\loading_dialog_progressbar.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_kitkat_square_undobarselected.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\shape_kitkat_square_undobarselected.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_bg.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\corners_bg.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_gray.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_kitkat_gray.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_btn_disenable.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.2\\res\\drawable\\smssdk_btn_disenable.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_gray.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_standard_gray.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.2\\res\\drawable\\md_btn_selected.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_green.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_standard_green.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_country_group_scroll_up.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.2\\res\\drawable\\smssdk_country_group_scroll_up.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_black.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_standard_black.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textviewline.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\textviewline.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_back_press.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.3.2\\res\\drawable\\selector_back_press.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_white.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_standard_white.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ksw_md_thumb.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.kyleduo.switchbutton\\library\\1.4.4\\res\\drawable\\ksw_md_thumb.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_item_bac.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\setting_item_bac.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_share.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\popup_share.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_point_red.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\shape_point_red.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_loading_dialog.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\shape_loading_dialog.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_newbook_selector.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\tab_newbook_selector.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\freeread_detil.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\freeread_detil.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector_dark.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.2\\res\\drawable\\md_selector_dark.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_orange.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_kitkat_orange.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bookdetail_houmian.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\bookdetail_houmian.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_libabry_selector.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\tab_libabry_selector.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_orange.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_standard_orange.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_circle.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.9.0.2\\res\\drawable\\gray_circle.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_country_bg_selector.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.2\\res\\drawable\\smssdk_country_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tab.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_point_gray.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\shape_point_gray.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_complete.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\rect_complete.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_platform_cell_back.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_platform_cell_back.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_btn_enable.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.2\\res\\drawable\\smssdk_btn_enable.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ambilwarna_alphacheckered_tiled.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.yukuku\\ambilwarna\\2.0.1\\res\\drawable\\ambilwarna_alphacheckered_tiled.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bookdetail_head.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\bookdetail_head.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_top_ok.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.3.2\\res\\drawable\\selector_top_ok.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.2\\res\\drawable\\md_selector.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_progress.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\rect_progress.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_corners_bg_pre.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.2\\res\\drawable\\smssdk_corners_bg_pre.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_dialog_btn_back.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.2\\res\\drawable\\smssdk_dialog_btn_back.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_mybooks_selector.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\tab_mybooks_selector.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector_dark.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.2\\res\\drawable\\md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_corners_bg.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.2\\res\\drawable\\smssdk_corners_bg.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lights.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\lights.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_purple.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_standard_purple.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_error.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\rect_error.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_kitkat_undobarselected.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\shape_kitkat_undobarselected.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_normal.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\rect_normal.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_main_menu_text.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\selector_main_menu_text.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_country_group_scroll_down.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.1.2\\res\\drawable\\smssdk_country_group_scroll_down.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_kitkat_square_undobutton.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\selector_kitkat_square_undobutton.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_grid_camera_bg.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.3.2\\res\\drawable\\selector_grid_camera_bg.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_settingitem_select.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\drawable\\shape_settingitem_select.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_undobarfocused.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\shape_undobarfocused.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_blue.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_kitkat_blue.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_red.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_standard_red.xml"
+    },
+    {
+        "merged": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_purple.xml",
+        "source": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.github.johnpersano\\supertoasts\\1.3.4\\res\\drawable\\background_kitkat_purple.xml"
+    }
+]

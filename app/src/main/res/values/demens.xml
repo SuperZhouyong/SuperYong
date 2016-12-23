@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="btn_fab_size">56dp</dimen>
+    <dimen name="btn_fab_margin">16dp</dimen>
+
+    <dimen name="corner_radius">2dp</dimen>
+    <dimen name="layer_padding">3dp</dimen>
+    <dimen name="ui_5_dip">20dp</dimen>
+
+
+    <dimen name="font_tiny">10sp</dimen>
+    <dimen name="font_small">12sp</dimen>
+    <dimen name="font_normal">14sp</dimen>
+    <dimen name="font_normal2">16sp</dimen>
+    <dimen name="font_normal3">20sp</dimen>
+    <dimen name="font_large">24sp</dimen>
+
+
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="item_margin">8dp</dimen>
+    <dimen name="title_margin">24dp</dimen>
+
+
+    <!-- 微小字体-->
+    <dimen name="text_font_micro">12sp</dimen>
+
+    <!-- 小号字体-->
+    <dimen name="text_font_small">14sp</dimen>
+    <dimen name="text_font_med">16sp</dimen>
+    <!-- 中等字体-->
+    <dimen name="text_font_medium">18sp</dimen>
+    <!--大号字体-->
+    <dimen name="text_font_big">22sp</dimen>
+    <dimen name="delete_width">60dp</dimen>
+</resources>

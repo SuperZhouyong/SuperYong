@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:fitsSystemWindows="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="true">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/y100"
+            android:background="@color/head_fragmen"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+
+                android:layout_height="@dimen/y100"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:gravity="center"
+                android:text="委员读书"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_font_big"/>
+
+            <RelativeLayout
+                android:id="@+id/readbook_sousuo"
+                android:layout_width="@dimen/x100"
+                android:layout_height="@dimen/y100"
+                android:layout_alignParentRight="true">
+
+                <ImageView
+                    android:layout_width="@dimen/x40"
+                    android:layout_height="@dimen/y40"
+                    android:layout_centerInParent="true"
+                    android:background="@mipmap/sousuuo"/>
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+        <com.cjj.MaterialRefreshLayout
+            android:background="@color/readbook_backguard"
+            android:id="@+id/rcy_refresh_read"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:isLoadMore="true">
+
+            <android.support.v7.widget.RecyclerView
+                android:layout_marginRight="@dimen/x5"
+                android:layout_marginLeft="@dimen/x5"
+                android:id="@+id/irc_readbook"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/readbook_backguard"/>
+        </com.cjj.MaterialRefreshLayout>
+
+    </LinearLayout>
+   <!-- <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginBottom="@dimen/x55"
+        android:layout_marginRight="@dimen/x15"
+        android:src="@mipmap/ic_arrow_upward"
+        app:backgroundTint="@color/bg_blue"
+        app:layout_behavior="com.sxzx.view.ScrollAwareFABBehavior"/>-->
+
+</android.support.design.widget.CoordinatorLayout>
+
+    <!--<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        android:background="@mipmap/readbook_background">
+        <ListView
+            android:divider="@mipmap/readbook_background"
+            android:dividerHeight="15dp"
+            android:id="@+id/lv1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></ListView>
+    </LinearLayout>-->

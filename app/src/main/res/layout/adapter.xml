@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardView"
+    android:layout_width="@dimen/x400"
+    android:layout_height="@dimen/y700"
+    android:layout_gravity="center"
+    app:cardCornerRadius="2dp"
+    >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+
+            android:orientation="vertical"
+            >
+
+            <ImageView
+
+                android:layout_gravity="center_horizontal"
+                android:id="@+id/image_uiinfo"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y350"
+                android:scaleType="fitXY"
+                />
+
+            <TextView
+                android:gravity="center"
+                android:id="@+id/textView9"
+                style="@style/TextAppearance.AppCompat.Title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/x20"
+                android:maxLines="1"
+                android:text="人民政协文史馆"/>
+
+            <RelativeLayout
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:paddingLeft="@dimen/x20"
+                    android:id="@+id/time_shijian"
+                    style="@style/TextAppearance.AppCompat.Body1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/x20"
+                    android:maxLines="1"
+                    android:text="时间："
+                    />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/time_shijian"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:id="@+id/adapter_shijian"
+                        style="@style/TextAppearance.AppCompat.Body1"
+                        android:paddingRight="@dimen/x30"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/x20"
+                        android:ellipsize="middle"
+                        android:maxLines="2"
+                        android:text="2016年4月27号"
+                        />
+
+                <!--    <TextView
+
+                        android:id="@+id/adapter_shijian2"
+                        style="@style/TextAppearance.AppCompat.Body1"
+                        android:layout_width="@dimen/x350"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/x20"
+                        android:ellipsize="end"
+                        android:maxLines="1"
+                        android:text=""
+                        />-->
+
+
+                </LinearLayout>
+            </RelativeLayout>
+
+            <TextView
+                android:paddingLeft="@dimen/x20"
+                android:id="@+id/adapter_dizhi"
+                style="@style/TextAppearance.AppCompat.Body1"
+                android:layout_width="@dimen/x350"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/x20"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:text="地址：北京市西城区太平桥"/>
+
+            <RelativeLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/x60"
+                android:layout_marginTop="@dimen/x20">
+
+                <Button
+
+                    android:id="@+id/adapter_more"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/x50"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/shape_liaojiegengduo"
+                    android:text="了解更多"
+                    android:textColor="@color/white"/>
+            </RelativeLayout>
+        </LinearLayout>
+
+
+    </FrameLayout>
+
+</android.support.v7.widget.CardView>
+    <!--  <LinearLayout
+
+
+            android:layout_width="@dimen/x450"
+            android:layout_height="wrap_content"
+
+            android:orientation="vertical"
+           >
+
+            <ImageView
+                android:layout_width="@dimen/x450"
+                android:layout_height="@dimen/y400"
+                android:layout_gravity="center_horizontal"
+                android:background="@mipmap/beijing"/>
+
+            <TextView
+                android:layout_marginTop="@dimen/x20"
+                android:maxLines="1"
+                android:id="@+id/textView9"
+                style="@style/TextAppearance.AppCompat.Title"
+                android:layout_width="@dimen/x450"
+                android:layout_height="wrap_content"
+                android:text="人民政协文史馆"/>
+
+            <TextView
+                android:ellipsize="middle"
+                android:maxLines="2"
+                android:layout_marginTop="@dimen/x20"
+                style="@style/TextAppearance.AppCompat.Body1"
+                android:layout_width="@dimen/x350"
+                android:layout_height="wrap_content"
+                android:text="时间：2016年4月27号"
+                />
+
+            <TextView
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:layout_marginTop="@dimen/x20"
+                style="@style/TextAppearance.AppCompat.Body1"
+                android:layout_width="@dimen/x350"
+                android:layout_height="wrap_content"
+                android:text="地址：北京市西城区太平桥"/>
+            <RelativeLayout
+                android:layout_marginTop="@dimen/x20"
+                android:layout_width="@dimen/x450"
+                android:layout_height="@dimen/x50">
+            <Button
+                android:layout_centerHorizontal="true"
+                android:textColor="@color/white"
+
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/shape_liaojiegengduo"
+                android:text="了解更多"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/x50"/>
+            </RelativeLayout>
+        </LinearLayout>
+    -->

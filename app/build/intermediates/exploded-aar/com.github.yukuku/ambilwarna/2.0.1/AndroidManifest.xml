@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    package="yuku.ambilwarna"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:versionCode="3"
+    android:versionName="2.0.1" >
+
+    <uses-sdk
+        android:minSdkVersion="7"
+        android:targetSdkVersion="23" />
+
+</manifest>

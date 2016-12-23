@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AlignTextView"><attr format="enum" name="align"><enum name="left" value="0"/><enum name="center" value="1"/><enum name="right" value="2"/></attr></declare-styleable>
+    <declare-styleable name="CBAlignTextView"><attr format="boolean" name="punctuationConvert"/></declare-styleable>
+    <!-- From: file:/Users/YD/AndroidProjects/AlignTextView/align-text-view/src/main/res/values/aligntextview-styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+</resources>

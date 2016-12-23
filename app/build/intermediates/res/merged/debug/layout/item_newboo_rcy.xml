@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_margin="2dp"
+              android:foreground="?android:attr/selectableItemBackground"
+              android:orientation="vertical">
+<!-- android:background="@color/window_background"-->
+    <TextView
+
+        android:id="@+id/id_rank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/x10"
+        android:text="阅读排行"
+        android:textColor="@color/new_book_title"
+        android:textSize="@dimen/text_font_med"
+        android:visibility="gone"/>
+
+    <RelativeLayout
+
+        android:id="@+id/rl_root"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/readbook_item">
+
+        <android.support.v7.widget.CardView
+            android:layout_centerVertical="true"
+            android:id="@+id/iv_card"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:cardElevation="@dimen/x15">
+
+            <ImageView
+                android:id="@+id/iv_photo"
+                android:layout_width="@dimen/x180"
+                android:layout_height="@dimen/x270"
+                android:layout_margin="@dimen/x2"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:transitionName="@string/transition_photos"
+                tools:src="@mipmap/ic_launcher"
+                tools:targetApi="lollipop"/>
+        </android.support.v7.widget.CardView>
+<!--标题我用的35-->
+        <!-- 最小用的28-->
+        <TextView
+
+            android:id="@+id/new_book_author"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/new_book_name"
+            android:layout_marginLeft="@dimen/x30"
+            android:layout_marginTop="@dimen/y40"
+            android:layout_toRightOf="@id/iv_card"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:textColor="@color/new_book_auther"
+            android:textSize="@dimen/x28"
+            tools:text="auther"
+
+            />
+
+        <TextView
+            android:id="@+id/new_book_type"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="@dimen/x7"
+            android:lineSpacingMultiplier="1.2"
+            android:layout_marginLeft="@dimen/x30"
+            android:layout_marginTop="@dimen/y40"
+            android:layout_below="@id/new_book_author"
+            android:layout_marginRight="@dimen/item_margin"
+            android:layout_toRightOf="@+id/iv_card"
+            android:ellipsize="end"
+            android:lines="2"
+            android:maxLines="2"
+            android:paddingBottom="@dimen/y5"
+            android:textColor="@color/new_book_auther"
+            android:textSize="@dimen/x30"
+            tools:text="05-28 20:09"/>
+
+        <TextView
+            android:paddingTop="@dimen/y15"
+            android:textSize="@dimen/x35"
+            android:id="@+id/new_book_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/iv_card"
+            android:lines="1"
+            android:textColor="@color/new_book_auther"
+            android:layout_marginLeft="@dimen/x30"
+            tools:text="习近平:吹响建设科技强国号角国号角国号角"
+
+            />
+
+
+    </RelativeLayout>
+
+</LinearLayout>

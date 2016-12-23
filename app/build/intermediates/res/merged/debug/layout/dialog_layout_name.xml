@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+    <EditText
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:textColor="@color/setting_ziliao_item_font"
+        android:background="@drawable/shape_loading_dialog"
+        android:id="@+id/edit_name_select"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y240"/>
+    <TextView
+        android:id="@+id/edit_name_save"
+        android:gravity="center"
+        android:textSize="@dimen/text_font_medium"
+        android:textColor="@color/white"
+        android:background="@color/name_sex_save"
+        android:text="保存"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x80"/>
+
+</LinearLayout>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_marginTop="@dimen/y70"
+        android:layout_marginLeft="@dimen/x50"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/Imag_note"
+            android:layout_width="@dimen/x30"
+            android:layout_height="@dimen/y30"
+            android:layout_gravity="center_vertical"
+            android:background="@mipmap/dian"/>
+
+        <TextView
+            android:id="@+id/TV_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/Imag_note"
+            android:layout_marginLeft="@dimen/x20"
+            android:layout_toRightOf="@id/Imag_note"
+            android:text="10-03"
+            android:textColor="@color/head_fragmen"
+            android:textSize="@dimen/x30"/>
+    </LinearLayout>
+    <TextView
+        android:lineSpacingExtra="@dimen/y7"
+        android:lineSpacingMultiplier="1.2"
+        android:textSize="@dimen/x35"
+        android:maxLines="4"
+        android:textColor="@color/primary_text"
+        android:id="@+id/TV_note"
+        android:layout_marginTop="@dimen/y10"
+        android:layout_marginRight="@dimen/x50"
+        android:layout_marginLeft="@dimen/x50"
+        android:text="我是小说的一部分"
+        android:layout_below="@id/linear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+
+        android:textColor="@color/gray"
+        android:layout_marginTop="@dimen/y20"
+        android:text="我是注解"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/TV_note"
+        android:layout_marginRight="@dimen/x50"
+
+        android:layout_alignLeft="@+id/TV_note"
+        android:layout_alignStart="@+id/TV_note"
+        android:id="@+id/TV_zhujie"/>
+</RelativeLayout>
+<!--<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white"
+    android:layout_height="@dimen/y300"
+    android:orientation="horizontal">
+
+
+        <TextView
+
+            android:layout_marginLeft="@dimen/x30"
+            android:layout_marginTop="@dimen/y30"
+            android:id="@+id/tvTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/iv_card"
+            android:textAppearance="@style/TextAppearance.AppCompat.Title"
+            android:textColor="@color/new_book_auther"/>
+
+        <TextView
+            android:layout_marginLeft="@dimen/x30"
+            android:id="@+id/tvNum"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@id/iv_card"
+            android:layout_marginBottom="@dimen/y50"
+
+            android:textColor="@color/new_book_auther"/>
+    <android.support.v7.widget.CardView
+        android:layout_alignTop="@+id/tvTitle"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:id="@+id/iv_card"
+        app:cardElevation="@dimen/y5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/ivBook"
+            android:layout_width="@dimen/x160"
+            android:layout_height="@dimen/y240"
+            android:transitionName="@string/transition_book_img"
+
+            />
+</android.support.v7.widget.CardView>
+
+    </RelativeLayout>-->
+

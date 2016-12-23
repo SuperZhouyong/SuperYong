@@ -1,0 +1,18 @@
+// Generated code from Butter Knife. Do not modify!
+package com.sxzx;
+
+import android.view.View;
+import butterknife.ButterKnife.Finder;
+import butterknife.ButterKnife.ViewBinder;
+
+public class InfoDetailsActivity$$ViewBinder<T extends com.sxzx.InfoDetailsActivity> implements ViewBinder<T> {
+  @Override public void bind(final Finder finder, final T target, Object source) {
+    View view;
+    view = finder.findRequiredView(source, 2131689636, "field 'mwebviewRel'");
+    target.mwebviewRel = finder.castView(view, 2131689636, "field 'mwebviewRel'");
+  }
+
+  @Override public void unbind(T target) {
+    target.mwebviewRel = null;
+  }
+}

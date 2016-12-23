@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="color" name="tl_divider_color"/>
+    <attr format="dimension" name="tl_divider_padding"/>
+    <attr format="dimension" name="tl_divider_width"/>
+    <attr format="integer" name="tl_indicator_anim_duration"/>
+    <attr format="boolean" name="tl_indicator_anim_enable"/>
+    <attr format="boolean" name="tl_indicator_bounce_enable"/>
+    <attr format="color" name="tl_indicator_color"/>
+    <attr format="dimension" name="tl_indicator_corner_radius"/>
+    <attr format="enum" name="tl_indicator_gravity">
+        <enum name="TOP" value="48"/>
+        <enum name="BOTTOM" value="80"/>
+    </attr>
+    <attr format="dimension" name="tl_indicator_height"/>
+    <attr format="dimension" name="tl_indicator_margin_bottom"/>
+    <attr format="dimension" name="tl_indicator_margin_left"/>
+    <attr format="dimension" name="tl_indicator_margin_right"/>
+    <attr format="dimension" name="tl_indicator_margin_top"/>
+    <attr format="enum" name="tl_indicator_style">
+        <enum name="NORMAL" value="0"/>
+        <enum name="TRIANGLE" value="1"/>
+        <enum name="BLOCK" value="2"/>
+    </attr>
+    <attr format="dimension" name="tl_indicator_width"/>
+    <attr format="boolean" name="tl_indicator_width_equal_title"/>
+    <attr format="dimension" name="tl_tab_padding"/>
+    <attr format="boolean" name="tl_tab_space_equal"/>
+    <attr format="dimension" name="tl_tab_width"/>
+    <attr format="boolean" name="tl_textAllCaps"/>
+    <attr format="enum" name="tl_textBold">
+        <enum name="NONE" value="0"/>
+        <enum name="SELECT" value="1"/>
+        <enum name="BOTH" value="2"/>
+    </attr>
+    <attr format="color" name="tl_textSelectColor"/>
+    <attr format="color" name="tl_textUnselectColor"/>
+    <attr format="dimension" name="tl_textsize"/>
+    <attr format="color" name="tl_underline_color"/>
+    <attr format="enum" name="tl_underline_gravity">
+        <enum name="TOP" value="48"/>
+        <enum name="BOTTOM" value="80"/>
+    </attr>
+    <attr format="dimension" name="tl_underline_height"/>
+    <declare-styleable name="CommonTabLayout"><attr name="tl_indicator_color"/><attr name="tl_indicator_height"/><attr name="tl_indicator_width"/><attr name="tl_indicator_margin_left"/><attr name="tl_indicator_margin_top"/><attr name="tl_indicator_margin_right"/><attr name="tl_indicator_margin_bottom"/><attr name="tl_indicator_corner_radius"/><attr name="tl_indicator_gravity"/><attr name="tl_indicator_style"/><attr name="tl_indicator_anim_enable"/><attr name="tl_indicator_anim_duration"/><attr name="tl_indicator_bounce_enable"/><attr name="tl_underline_color"/><attr name="tl_underline_height"/><attr name="tl_underline_gravity"/><attr name="tl_divider_color"/><attr name="tl_divider_width"/><attr name="tl_divider_padding"/><attr name="tl_tab_padding"/><attr name="tl_tab_space_equal"/><attr name="tl_tab_width"/><attr name="tl_textsize"/><attr name="tl_textSelectColor"/><attr name="tl_textUnselectColor"/><attr name="tl_textBold"/><attr name="tl_textAllCaps"/><attr format="dimension" name="tl_iconWidth"/><attr format="dimension" name="tl_iconHeight"/><attr format="boolean" name="tl_iconVisible"/><attr format="enum" name="tl_iconGravity"><enum name="LEFT" value="3"/><enum name="TOP" value="48"/><enum name="RIGHT" value="5"/><enum name="BOTTOM" value="80"/></attr><attr format="dimension" name="tl_iconMargin"/></declare-styleable>
+    <declare-styleable name="MsgView"><attr format="color" name="mv_backgroundColor"/><attr format="dimension" name="mv_cornerRadius"/><attr format="dimension" name="mv_strokeWidth"/><attr format="color" name="mv_strokeColor"/><attr format="boolean" name="mv_isRadiusHalfHeight"/><attr format="boolean" name="mv_isWidthHeightEqual"/></declare-styleable>
+    <declare-styleable name="SegmentTabLayout"><attr name="tl_indicator_color"/><attr name="tl_indicator_height"/><attr name="tl_indicator_margin_left"/><attr name="tl_indicator_margin_top"/><attr name="tl_indicator_margin_right"/><attr name="tl_indicator_margin_bottom"/><attr name="tl_indicator_corner_radius"/><attr name="tl_indicator_anim_enable"/><attr name="tl_indicator_anim_duration"/><attr name="tl_indicator_bounce_enable"/><attr name="tl_divider_color"/><attr name="tl_divider_width"/><attr name="tl_divider_padding"/><attr name="tl_tab_padding"/><attr name="tl_tab_space_equal"/><attr name="tl_tab_width"/><attr name="tl_textsize"/><attr name="tl_textSelectColor"/><attr name="tl_textUnselectColor"/><attr name="tl_textBold"/><attr name="tl_textAllCaps"/><attr format="color" name="tl_bar_color"/><attr format="color" name="tl_bar_stroke_color"/><attr format="dimension" name="tl_bar_stroke_width"/></declare-styleable>
+    <declare-styleable name="SlidingTabLayout"><attr name="tl_indicator_color"/><attr name="tl_indicator_height"/><attr name="tl_indicator_width"/><attr name="tl_indicator_margin_left"/><attr name="tl_indicator_margin_top"/><attr name="tl_indicator_margin_right"/><attr name="tl_indicator_margin_bottom"/><attr name="tl_indicator_corner_radius"/><attr name="tl_indicator_gravity"/><attr name="tl_indicator_style"/><attr name="tl_indicator_width_equal_title"/><attr name="tl_underline_color"/><attr name="tl_underline_height"/><attr name="tl_underline_gravity"/><attr name="tl_divider_color"/><attr name="tl_divider_width"/><attr name="tl_divider_padding"/><attr name="tl_tab_padding"/><attr name="tl_tab_space_equal"/><attr name="tl_tab_width"/><attr name="tl_textsize"/><attr name="tl_textSelectColor"/><attr name="tl_textUnselectColor"/><attr name="tl_textBold"/><attr name="tl_textAllCaps"/></declare-styleable>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+   <!-- <com.sxzx.view.WheelView
+        android:id="@+id/wheel_sex_select"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x100"
+        >
+
+    </com.sxzx.view.WheelView>-->
+    <TextView
+
+        android:background="@drawable/setting_item_bac"
+        android:gravity="center"
+        android:textColor="@color/setting_ziliao_item_font"
+        android:textSize="@dimen/text_font_medium"
+        android:text="男"
+        android:id="@+id/sex_man"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y100"/>
+    <TextView
+        android:background="@drawable/setting_item_bac"
+        android:gravity="center"
+        android:textColor="@color/setting_ziliao_item_font"
+        android:text="女"
+        android:textSize="@dimen/text_font_medium"
+        android:id="@+id/sex_woman"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y100"/>
+    <TextView
+        android:id="@+id/edit_sex_save"
+        android:gravity="center"
+        android:textSize="@dimen/text_font_medium"
+        android:textColor="@color/white"
+        android:background="@color/name_sex_save"
+        android:text="取消"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y100"/>
+</LinearLayout>

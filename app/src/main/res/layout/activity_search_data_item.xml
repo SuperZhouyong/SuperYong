@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_search_item"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/y100"
+    android:orientation="horizontal"
+    >
+
+
+    <TextView
+        android:id="@+id/activity_search_item_bookname"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/y100"
+        android:layout_weight="5"
+        android:ellipsize="end"
+        android:gravity="center_vertical"
+        android:maxLines="1"
+        android:paddingLeft="@dimen/x20"
+        android:text="sousu"
+        android:textColor="@color/serach_item_bac"
+        android:textSize="@dimen/text_font_medium"/>
+
+
+    <TextView
+        android:paddingRight="@dimen/x20"
+        android:text="auther"
+        android:gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/gengduo"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/activity_search_item_bookauther"/>
+
+</RelativeLayout>

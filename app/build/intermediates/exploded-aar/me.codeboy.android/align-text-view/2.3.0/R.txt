@@ -1,0 +1,10 @@
+int attr align 0x7f010000
+int attr punctuationConvert 0x7f010001
+int id center 0x7f030000
+int id left 0x7f030001
+int id right 0x7f030002
+int style AppBaseTheme 0x7f020000
+int[] styleable AlignTextView { 0x7f010000 }
+int styleable AlignTextView_align 0
+int[] styleable CBAlignTextView { 0x7f010001 }
+int styleable CBAlignTextView_punctuationConvert 0

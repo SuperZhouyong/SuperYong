@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lxj"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 支付宝的权限申明 全部已有 -->
+
+
+    <!-- ShareSDK 的要求权限 -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <!-- 极光推送权限 -->
+    <!-- ${applicationId} -->
+    <!--
+    <uses-permission android:name="com.example.lxj.permission.JPUSH_MESSAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    -->
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.PREVENT_POWER_KEY" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" /> <!-- 相机权限 -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:name="com.koolearn.android.kooreader.KooReaderApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:logo="@mipmap/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.sxzx.SplashActivity"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sxzx.MainActivity"
+            android:theme="@style/AppTheme" >
+        </activity>
+>
+        <activity
+            android:name="com.sxzx.GuideActivity"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+        <activity android:name="com.sxzx.MenuActivity" />
+        <activity android:name="com.sxzx.SearchActivity" />
+        <activity android:name="com.sxzx.LoginActivity" />
+        <activity android:name="com.sxzx.Verify1Activity" />
+        <activity android:name="com.sxzx.SettingActivity" />
+        <activity android:name="com.sxzx.InformationActivity" />
+        <activity android:name="com.sxzx.MessageActivity" />
+        <activity
+            android:name="com.sxzx.BookDetailActivity"
+            android:theme="@style/appDialog" />
+        <activity android:name="com.sxzx.InfoDetailsActivity" />
+        <activity android:name="com.sxzx.ReadDetilActivity" />
+        <activity android:name="com.sxzx.ResetPasswordActivity" />
+        <activity android:name="com.sxzx.NoteInfoActivity" />
+        <activity android:name="com.sxzx.AboutActivity" />
+        <activity android:name="com.sxzx.FeedbackActivity" />
+
+        <!-- Share SDK -->
+        <activity
+            android:name="com.mob.tools.MobUIShell"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+            <intent-filter>
+                <data android:scheme="tencent100371282" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <!-- 调用新浪原生SDK，需要注册的回调activity -->
+            <intent-filter>
+                <action android:name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!-- 微信分享回调 -->
+        <!-- com.koolearn.epub.reader -->
+        <activity
+            android:name="com.example.lxj.wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!-- 支付宝分享回调 -->
+        <!--
+            <activity
+            android:name=".apshare.ShareEntryActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"/>
+        -->
+        <!-- share到此为止 -->
+        <activity
+            android:name="com.koolearn.android.kooreader.KooReader"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:icon="@mipmap/ic_launcher"
+            android:label="@string/app_name"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="android.kooreader.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.kooreader.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="file" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="kooreader-action" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.kooreader.action.PLUGIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data
+                    android:host=""
+                    android:scheme="file" />
+                <data android:pathPattern=".*\\.epub" />
+                <!-- <data android:pathPattern=".*\\.doc" /> -->
+                <!-- <data android:pathPattern=".*\\.oeb" /> -->
+                <!-- <data android:pathPattern=".*\\.fb2" /> -->
+                <!-- <data android:pathPattern=".*\\.fb2\\.zip" /> -->
+                <!-- <data android:pathPattern=".*\\.mobi" /> -->
+                <!-- <data android:pathPattern=".*\\.prc" /> -->
+                <!-- <data android:pathPattern=".*\\.txt" /> -->
+                <!-- <data android:pathPattern=".*\\.rtf" /> -->
+                <!-- <data android:pathPattern=".*\\.pdf" /> -->
+                <!-- <data android:pathPattern=".*\\.djvu" /> -->
+                <!-- <data android:pathPattern=".*\\.cbr" /> -->
+                <!-- <data android:pathPattern=".*\\.cbz" /> -->
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data
+                    android:host=""
+                    android:mimeType="text/plain"
+                    android:scheme="file" />
+                <data android:pathPattern=".*\\.epub" />
+                <!-- <data android:pathPattern=".*\\.doc" /> -->
+                <!-- <data android:pathPattern=".*\\.oeb" /> -->
+                <!-- <data android:pathPattern=".*\\.fb2" /> -->
+                <!-- <data android:pathPattern=".*\\.mobi" /> -->
+                <!-- <data android:pathPattern=".*\\.prc" /> -->
+                <!-- <data android:pathPattern=".*\\.txt" /> -->
+                <!-- <data android:pathPattern=".*\\.rtf" /> -->
+                <!-- <data android:pathPattern=".*\\.pdf" /> -->
+                <!-- <data android:pathPattern=".*\\.djvu" /> -->
+                <!-- <data android:pathPattern=".*\\.cbr" /> -->
+                <!-- <data android:pathPattern=".*\\.cbz" /> -->
+            </intent-filter>
+            <!--
+            intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="content" android:pathPattern=".*\\.fb2"/>
+            </intent-filter
+            -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host=""
+                    android:scheme="file" />
+                <data android:mimeType="application/epub+zip" />
+                <!-- <data android:mimeType="application/msword" /> -->
+                <!-- <data android:mimeType="application/x-pilot-prc" /> -->
+                <!-- <data android:mimeType="application/x-mobipocket-ebook" /> -->
+                <!-- <data android:mimeType="application/x-fictionbook+xml" /> -->
+                <!-- <data android:mimeType="application/x-fictionbook" /> -->
+                <!-- <data android:mimeType="application/pdf" /> -->
+                <!-- <data android:mimeType="application/x-pdf" /> -->
+                <!-- <data android:mimeType="application/djvu" /> -->
+                <!-- <data android:mimeType="application/x-djvu" /> -->
+                <!-- <data android:mimeType="application/x-cbr" /> -->
+                <!-- <data android:mimeType="application/x-cbz" /> -->
+                <!-- <data android:mimeType="image/vnd.djvu" /> -->
+                <!-- <data android:mimeType="image/x-djvu" /> -->
+                <!-- <data android:mimeType="text/plain" /> -->
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+
+            <intent-filter>
+                <action android:name="android.kooreader.action.CLOSE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.kooreader.action.PLUGIN_CRASH" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!-- <activity android:name="com.koolearn.android.kooreader.book.BookDetailActivity" /> -->
+        <activity
+            android:name="com.koolearn.android.kooreader.TOCActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" />
+        <activity
+            android:name="com.koolearn.android.kooreader.preferences.PreferenceActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:process=":preferences" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="kooreader-preferences" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.kooreader.action.PREFERENCES" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.koolearn.klibrary.ui.android.error.BugReportActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:exported="false"
+            android:label="KooReader crash"
+            android:process=":crash" />
+        <activity
+            android:name="com.koolearn.android.kooreader.library.LibraryActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:launchMode="singleTask"
+            android:process=":library" >
+            <intent-filter>
+                <action android:name="android.kooreader.action.LIBRARY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.koolearn.android.kooreader.bookmark.EditBookmarkActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@style/KooReader.Dialog" >
+            <intent-filter>
+                <action android:name="android.fbreader.action.EDIT_BOOKMARK" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.koolearn.android.kooreader.bookmark.EditStyleActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@style/KooReader.Dialog" >
+            <intent-filter>
+                <action android:name="android.fbreader.action.EDIT_STYLES" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="com.koolearn.android.kooreader.libraryService.LibraryService"
+            android:launchMode="singleTask"
+            android:process=":libraryService" >
+            <intent-filter>
+                <action android:name="android.kooreader.action.LIBRARY_SERVICE" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.koolearn.android.kooreader.config.ConfigService"
+            android:launchMode="singleTask"
+            android:process=":configService" >
+            <intent-filter>
+                <action android:name="android.kooreader.action.CONFIG_SERVICE" />
+            </intent-filter>
+        </service>
+        <!--
+        &lt;!&ndash;极光开始的步骤&ndash;&gt;
+        <meta-data android:name="JPUSH_CHANNEL" android:value="developer-default"/>
+        <meta-data android:name="JPUSH_APPKEY" android:value="360dd651914d6467a6685e2f" />
+        &lt;!&ndash; Required SDK核心功能&ndash;&gt;
+        <receiver android:name="cn.jpush.android.service.AlarmReceiver" android:exported="false"/>
+        &lt;!&ndash; Required SDK核心功能&ndash;&gt;
+        <receiver
+            android:name="cn.jpush.android.service.PushReceiver"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter android:priority="1000">
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY" />   &lt;!&ndash;Required  显示通知栏 &ndash;&gt;
+                <category android:name="com.koolearn.epub.reader" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            &lt;!&ndash; Optional &ndash;&gt;
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+        &lt;!&ndash; Required SDK 核心功能&ndash;&gt;
+        &lt;!&ndash; 可配置android:process参数将PushService放在其他进程中 &ndash;&gt;
+        <service
+            android:name="cn.jpush.android.service.PushService"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTER" />
+                <action android:name="cn.jpush.android.intent.REPORT" />
+                <action android:name="cn.jpush.android.intent.PushService" />
+                <action android:name="cn.jpush.android.intent.PUSH_TIME" />
+            </intent-filter>
+        </service>
+        &lt;!&ndash; Required  SDK核心功能&ndash;&gt;
+        <service
+            android:name="cn.jpush.android.service.DownloadService"
+            android:enabled="true"
+            android:exported="false" >
+        </service>
+        &lt;!&ndash; Required SDK核心功能&ndash;&gt;
+        <activity
+            android:name="cn.jpush.android.ui.PushActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="cn.jpush.android.ui.PushActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="com.koolearn.epub.reader" />
+            </intent-filter>
+        </activity>
+        &lt;!&ndash; Rich push 核心功能 since 2.0.6&ndash;&gt;
+        <activity
+            android:name="cn.jpush.android.ui.PopWinActivity"
+            android:theme="@style/MyDialogStyle"
+            android:exported="false">
+        </activity>
+        -->
+        <!-- 支付宝的SDK -->
+        <activity
+            android:name="com.alipay.sdk.app.H5PayActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind" >
+        </activity>
+        <activity
+            android:name="com.alipay.sdk.auth.AuthActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind" >
+        </activity>
+
+        <service android:name="com.lzy.okserver.download.DownloadService" />
+
+        <activity android:name="com.lzy.imagepicker.ui.ImageBaseActivity" />
+        <activity
+            android:name="com.lzy.imagepicker.ui.ImageGridActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/ImagePickerTheme" />
+        <activity
+            android:name="com.lzy.imagepicker.ui.ImageCropActivity"
+            android:configChanges="orientation|screenSize"
+            android:hardwareAccelerated="false"
+            android:theme="@style/ImagePickerTheme" />
+        <activity
+            android:name="com.lzy.imagepicker.ui.ImagePreviewActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/ImagePickerThemeFullScreen" />
+    </application>
+
+</manifest>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:id="@+id/ll1"
+        android:layout_width="wrap_content"
+        android:layout_height="170dp"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2.5dp"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal">
+
+            <com.sxzx.view.RoundImageView
+                android:id="@+id/riv_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/zhanwei" />
+
+            <TextView
+                android:id="@+id/tv_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="周国昌"
+                android:textSize="15dp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_bookname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:text="谈全名健身"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/tv"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:text="近期我们了解到,啊啊发跟我上课大"
+            android:textSize="15dp"
+ />
+
+        <TextView
+            android:id="@+id/tv_comment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:text="评发育的趣味"
+            android:textColor="@color/red"
+            android:textSize="15dp" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_alignParentRight="true"
+        android:id="@+id/iv_bookicon"
+        android:layout_width="125dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/ll1"
+        android:paddingRight="30dp"
+        android:src="@mipmap/readbook_bookicon"
+        android:padding="10dp"
+        android:layout_alignBottom="@+id/ll1" />
+</RelativeLayout>

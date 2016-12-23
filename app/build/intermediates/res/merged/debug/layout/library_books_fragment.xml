@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_margin="4dp"
+             android:foreground="?android:attr/selectableItemBackground">
+    <!--   android:background="@drawable/readbook_item"-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/id_card"
+            android:layout_width="@dimen/x220"
+            android:layout_height="@dimen/x330"
+            app:cardElevation="@dimen/x15">
+
+            <ImageView
+                android:id="@+id/lirbray_fragmnet_bookimg"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                tools:src="@mipmap/ic_launcher"
+                />
+        </android.support.v7.widget.CardView>
+
+        <TextView
+
+            android:id="@+id/lirbray_fragment_bookname"
+            android:layout_width="@dimen/x220"
+            android:layout_height="@dimen/y80"
+            android:layout_below="@id/id_card"
+            android:layout_marginTop="@dimen/x5"
+            android:gravity="center"
+            android:text="书名"
+            android:textColor="@color/new_book_auther"
+            android:textSize="@dimen/x30"/>
+
+
+    </RelativeLayout>
+    -->
+
+
+</FrameLayout>
+    <!--
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/x20"
+                    android:orientation="vertical"
+        >
+
+        <ImageView
+            android:id="@+id/lirbray_fragmnet_bookimg"
+            android:layout_width="@dimen/x180"
+            android:layout_height="@dimen/x270"
+            android:layout_weight="0.04"
+            android:padding="@dimen/x210"
+            android:src="@mipmap/delete"
+
+            />
+
+        <TextView
+            android:id="@+id/lirbray_fragment_bookname"
+            android:layout_width="@dimen/x180"
+            android:layout_height="@dimen/y50"
+            android:layout_below="@id/lirbray_fragmnet_bookimg"
+            android:gravity="center"
+            android:text="书名"
+            android:textSize="@dimen/text_font_small"/>
+
+
+    </RelativeLayout>-->

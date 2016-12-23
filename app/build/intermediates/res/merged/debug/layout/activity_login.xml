@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@mipmap/login"
+                android:fitsSystemWindows="true">
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="@dimen/x250"
+        android:layout_height="@dimen/y250"
+        android:background="@mipmap/loginicon"
+        android:layout_marginTop="46dp"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/imageButton"
+        android:layout_toStartOf="@+id/imageButton"/>
+    <RelativeLayout
+        android:background="@mipmap/login_07"
+        android:layout_marginLeft="@dimen/x80"
+        android:layout_marginRight="@dimen/x80"
+        android:layout_marginTop="@dimen/y80"
+        android:layout_below="@id/iv"
+        android:id="@+id/relat_phone"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y100">
+        <ImageView
+            android:layout_centerVertical="true"
+            android:src="@mipmap/loginname"
+            android:id="@+id/phone_img"
+            android:layout_width="@dimen/x50"
+            android:layout_height="wrap_content"/>
+        <EditText
+            android:background="@drawable/shape_loading_login_deit"
+            android:paddingLeft="@dimen/x20"
+            android:layout_toRightOf="@id/phone_img"
+            android:id="@+id/edit_phone"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/y80"
+            android:layout_centerVertical="true"
+            android:layout_gravity="bottom"
+            android:digits="0123456789"
+            android:hint="手机号"
+            android:inputType="phone"
+            android:maxLines="1"
+            android:textColor="@color/text_gray"
+            android:textColorHint="@color/text_hint"
+            android:textSize="@dimen/text_font_medium"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_height="@dimen/y100"
+        android:layout_marginTop="@dimen/y20"
+        android:background="@mipmap/login_07"
+        android:layout_marginLeft="@dimen/x80"
+        android:layout_marginRight="@dimen/x80"
+        android:layout_below="@+id/relat_phone"
+        android:id="@+id/relat_password"
+        android:layout_width="match_parent"
+        >
+        <ImageView
+            android:layout_centerVertical="true"
+            android:src="@mipmap/password"
+            android:id="@+id/password_img"
+            android:layout_width="@dimen/x50"
+            android:layout_height="wrap_content"/>
+        <EditText
+            android:background="@drawable/shape_loading_login_deit"
+            android:paddingLeft="@dimen/x20"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/password_img"
+            android:id="@+id/editText_password"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/y80"
+            android:gravity="center_vertical"
+
+            android:digits="0123456789abcdefghigklmnopqrstuvwxyzABCDEFGHIGKLMNOPQRSTUVWXYZ"
+            android:hint="密码"
+            android:maxLines="1"
+            android:textColor="@color/text_gray"
+            android:textColorHint="@color/text_hint"
+            android:textSize="@dimen/text_font_medium"
+
+            />
+    </RelativeLayout>
+
+    <TextView
+
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bt_login"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="27dp"
+        android:text="忘记密码"
+        android:textColor="#59709A"
+        android:textSize="@dimen/text_font_medium"/>
+
+    <Button
+        android:id="@+id/bt_register"
+        android:layout_width="@dimen/x260"
+        android:layout_height="@dimen/x70"
+        android:background="@mipmap/login_12"
+        android:layout_below="@+id/relat_password"
+        android:layout_marginTop="26dp"
+        android:text="注册"
+        android:textSize="@dimen/x30"
+        android:textColor="@color/white"
+        android:layout_alignLeft="@+id/relat_password"
+        android:layout_alignStart="@+id/relat_password"/>
+
+    <Button
+        android:id="@+id/bt_login"
+        android:layout_width="@dimen/x260"
+        android:layout_height="@dimen/y70"
+        android:layout_alignTop="@+id/bt_register"
+        android:textSize="@dimen/x30"
+        android:background="@mipmap/login_14"
+        android:text="登录"
+        android:textColor="@color/white"
+        android:layout_alignRight="@+id/relat_password"
+        android:layout_alignEnd="@+id/relat_password"/>
+
+
+
+    <com.sxzx.view.RoundImageView
+
+        android:id="@+id/imageButton"
+        android:layout_width="@dimen/x120"
+        android:layout_height="@dimen/y120"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@mipmap/login_20"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/bt_login"
+        android:layout_alignEnd="@+id/bt_login"
+        android:layout_marginBottom="12dp"/>
+
+    <com.sxzx.view.RoundImageView
+        android:id="@+id/roundImageView2"
+        android:layout_width="@dimen/x120"
+        android:layout_height="@dimen/y120"
+        android:background="@mipmap/login_22"
+        android:layout_alignTop="@+id/imageButton"
+        android:layout_centerHorizontal="true"/>
+
+    <com.sxzx.view.RoundImageView
+        android:id="@+id/roundImageView"
+        android:layout_width="@dimen/x120"
+        android:layout_height="@dimen/y120"
+        android:background="@mipmap/login_18"
+        android:layout_alignTop="@+id/roundImageView2"
+        android:layout_toLeftOf="@+id/iv"
+        android:layout_toStartOf="@+id/iv"/>
+
+    <ImageView
+        android:layout_width="@dimen/x300"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/hezuo"
+        android:layout_above="@+id/roundImageView2"
+        android:layout_marginBottom="@dimen/y10"
+
+        android:id="@+id/imageView"
+        android:layout_alignLeft="@+id/roundImageView"
+        android:layout_alignStart="@+id/roundImageView"
+        android:layout_alignRight="@+id/imageButton"
+        android:layout_alignEnd="@+id/imageButton"/>
+
+
+
+</RelativeLayout>

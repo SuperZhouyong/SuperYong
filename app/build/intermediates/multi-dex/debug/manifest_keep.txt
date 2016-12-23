@@ -1,0 +1,39 @@
+-keep class com.koolearn.android.kooreader.KooReaderApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.sxzx.SplashActivity { <init>(); }
+-keep class com.sxzx.MainActivity { <init>(); }
+-keep class com.sxzx.GuideActivity { <init>(); }
+-keep class com.sxzx.MenuActivity { <init>(); }
+-keep class com.sxzx.SearchActivity { <init>(); }
+-keep class com.sxzx.LoginActivity { <init>(); }
+-keep class com.sxzx.Verify1Activity { <init>(); }
+-keep class com.sxzx.SettingActivity { <init>(); }
+-keep class com.sxzx.InformationActivity { <init>(); }
+-keep class com.sxzx.MessageActivity { <init>(); }
+-keep class com.sxzx.BookDetailActivity { <init>(); }
+-keep class com.sxzx.InfoDetailsActivity { <init>(); }
+-keep class com.sxzx.ReadDetilActivity { <init>(); }
+-keep class com.sxzx.ResetPasswordActivity { <init>(); }
+-keep class com.sxzx.NoteInfoActivity { <init>(); }
+-keep class com.sxzx.AboutActivity { <init>(); }
+-keep class com.sxzx.FeedbackActivity { <init>(); }
+-keep class com.mob.tools.MobUIShell { <init>(); }
+-keep class com.example.lxj.wxapi.WXEntryActivity { <init>(); }
+-keep class com.koolearn.android.kooreader.KooReader { <init>(); }
+-keep class com.koolearn.android.kooreader.TOCActivity { <init>(); }
+-keep class com.koolearn.android.kooreader.preferences.PreferenceActivity { <init>(); }
+-keep class com.koolearn.klibrary.ui.android.error.BugReportActivity { <init>(); }
+-keep class com.koolearn.android.kooreader.library.LibraryActivity { <init>(); }
+-keep class com.koolearn.android.kooreader.bookmark.EditBookmarkActivity { <init>(); }
+-keep class com.koolearn.android.kooreader.bookmark.EditStyleActivity { <init>(); }
+-keep class com.koolearn.android.kooreader.libraryService.LibraryService { <init>(); }
+-keep class com.koolearn.android.kooreader.config.ConfigService { <init>(); }
+-keep class com.alipay.sdk.app.H5PayActivity { <init>(); }
+-keep class com.alipay.sdk.auth.AuthActivity { <init>(); }
+-keep class com.lzy.okserver.download.DownloadService { <init>(); }
+-keep class com.lzy.imagepicker.ui.ImageBaseActivity { <init>(); }
+-keep class com.lzy.imagepicker.ui.ImageGridActivity { <init>(); }
+-keep class com.lzy.imagepicker.ui.ImageCropActivity { <init>(); }
+-keep class com.lzy.imagepicker.ui.ImagePreviewActivity { <init>(); }

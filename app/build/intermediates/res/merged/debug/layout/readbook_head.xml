@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:background="@color/readbook_backguard"
+    android:layout_margin="@dimen/x5"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/y400">
+
+    <ImageView
+        android:scaleType="fitXY"
+        android:background="@color/white"
+        android:id="@+id/readbook_head_img"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y100"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@color/readbokk_head_text"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/x20">
+
+        <TextView
+            android:id="@+id/readbook_head_bookdesir"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/y60"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:text="一些描述"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_font_medium"/>
+
+        <TextView
+            android:id="@+id/readbook_head_authername"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/y40"
+            android:gravity="center_vertical"
+            android:text="作者"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_small"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:scaleType="fitXY"
+        android:id="@+id/readbook_head_right_img"
+        android:layout_width="@dimen/x230"
+        android:layout_height="@dimen/y345"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/x20"/>
+
+
+</RelativeLayout>

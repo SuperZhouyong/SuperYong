@@ -1,0 +1,1849 @@
+[
+    {
+        "outputFile": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 367
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 372,
+                    "endColumn": 90,
+                    "endOffset": 458
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 90,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 463,
+                    "endColumn": 102,
+                    "endOffset": 561
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 102,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 566,
+                    "endColumn": 102,
+                    "endOffset": 664
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 102,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 669,
+                    "endColumn": 104,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 104,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endColumn": 106,
+                    "endOffset": 876
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 457,
+                        "endColumn": 106,
+                        "endOffset": 559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 881,
+                    "endColumn": 108,
+                    "endOffset": 985
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 108,
+                        "endOffset": 668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 990,
+                    "endColumn": 108,
+                    "endOffset": 1094
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 673,
+                        "endColumn": 108,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1099,
+                    "endColumn": 108,
+                    "endOffset": 1203
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endColumn": 108,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1208,
+                    "endColumn": 108,
+                    "endOffset": 1312
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 891,
+                        "endColumn": 108,
+                        "endOffset": 995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1317,
+                    "endColumn": 108,
+                    "endOffset": 1421
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1000,
+                        "endColumn": 108,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1426,
+                    "endColumn": 106,
+                    "endOffset": 1528
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endColumn": 106,
+                        "endOffset": 1211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1533,
+                    "endColumn": 102,
+                    "endOffset": 1631
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1216,
+                        "endColumn": 102,
+                        "endOffset": 1314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1636,
+                    "endColumn": 118,
+                    "endOffset": 1750
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1319,
+                        "endColumn": 118,
+                        "endOffset": 1433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1755,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1905
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1438,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 1588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1910,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 2060
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1593,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2065,
+                    "endColumn": 104,
+                    "endOffset": 2165
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1748,
+                        "endColumn": 104,
+                        "endOffset": 1848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2170,
+                    "endColumn": 120,
+                    "endOffset": 2286
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1853,
+                        "endColumn": 120,
+                        "endOffset": 1969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2291,
+                    "endColumn": 100,
+                    "endOffset": 2387
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1974,
+                        "endColumn": 100,
+                        "endOffset": 2070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2392,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 2534
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2075,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 2217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2539,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 2675
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2222,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 2358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2680,
+                    "endColumn": 102,
+                    "endOffset": 2778
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2363,
+                        "endColumn": 102,
+                        "endOffset": 2461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2783,
+                    "endColumn": 118,
+                    "endOffset": 2897
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2466,
+                        "endColumn": 118,
+                        "endOffset": 2580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2902,
+                    "endColumn": 106,
+                    "endOffset": 3004
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2585,
+                        "endColumn": 106,
+                        "endOffset": 2687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3009,
+                    "endColumn": 102,
+                    "endOffset": 3107
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2692,
+                        "endColumn": 102,
+                        "endOffset": 2790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3112,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 3262
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2795,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3267,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 3433
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2950,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 3116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3438,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 3582
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3121,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 3265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3587,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 3747
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3270,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 3430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3752,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 3904
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3435,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 3587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3909,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 4055
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3592,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 3738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4060,
+                    "endColumn": 118,
+                    "endOffset": 4174
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3743,
+                        "endColumn": 118,
+                        "endOffset": 3857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4179,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 4546
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3862,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 4229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4551,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 4695
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4234,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 4378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4700,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 4844
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4383,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 4527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4849,
+                    "endColumn": 111,
+                    "endOffset": 4956
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4532,
+                        "endColumn": 111,
+                        "endOffset": 4639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4961,
+                    "endColumn": 146,
+                    "endOffset": 5103
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4644,
+                        "endColumn": 146,
+                        "endOffset": 4786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5108,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 5256
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4791,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 4939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5261,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 5403
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4944,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 5086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5408,
+                    "endColumn": 74,
+                    "endOffset": 5478
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5091,
+                        "endColumn": 74,
+                        "endOffset": 5161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5483,
+                    "endColumn": 88,
+                    "endOffset": 5567
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 5166,
+                        "endColumn": 88,
+                        "endOffset": 5250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5572,
+                    "endColumn": 86,
+                    "endOffset": 5654
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 5255,
+                        "endColumn": 86,
+                        "endOffset": 5337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5659,
+                    "endColumn": 100,
+                    "endOffset": 5755
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5342,
+                        "endColumn": 100,
+                        "endOffset": 5438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5760,
+                    "endColumn": 102,
+                    "endOffset": 5858
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5443,
+                        "endColumn": 102,
+                        "endOffset": 5541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 5863,
+                    "endLine": 112,
+                    "endColumn": 12,
+                    "endOffset": 8926
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5546,
+                        "endLine": 106,
+                        "endColumn": 12,
+                        "endOffset": 8609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 8931,
+                    "endLine": 115,
+                    "endColumn": 12,
+                    "endOffset": 9112
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 8614,
+                        "endLine": 109,
+                        "endColumn": 12,
+                        "endOffset": 8795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 9117,
+                    "endLine": 159,
+                    "endColumn": 12,
+                    "endOffset": 12192
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 8800,
+                        "endLine": 153,
+                        "endColumn": 12,
+                        "endOffset": 11875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 12197,
+                    "endLine": 162,
+                    "endColumn": 12,
+                    "endOffset": 12390
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 11880,
+                        "endLine": 156,
+                        "endColumn": 12,
+                        "endOffset": 12073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 12395,
+                    "endLine": 165,
+                    "endColumn": 12,
+                    "endOffset": 12590
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 12078,
+                        "endLine": 159,
+                        "endColumn": 12,
+                        "endOffset": 12273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 12595,
+                    "endLine": 167,
+                    "endColumn": 12,
+                    "endOffset": 12713
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 12278,
+                        "endLine": 161,
+                        "endColumn": 12,
+                        "endOffset": 12396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 12718,
+                    "endLine": 169,
+                    "endColumn": 12,
+                    "endOffset": 12836
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 12401,
+                        "endLine": 163,
+                        "endColumn": 12,
+                        "endOffset": 12519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 12841,
+                    "endLine": 171,
+                    "endColumn": 12,
+                    "endOffset": 12949
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 12524,
+                        "endLine": 165,
+                        "endColumn": 12,
+                        "endOffset": 12632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 12954,
+                    "endLine": 174,
+                    "endColumn": 12,
+                    "endOffset": 13132
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 12637,
+                        "endLine": 168,
+                        "endColumn": 12,
+                        "endOffset": 12815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 13137,
+                    "endLine": 176,
+                    "endColumn": 12,
+                    "endOffset": 13263
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 12820,
+                        "endLine": 170,
+                        "endColumn": 12,
+                        "endOffset": 12946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 13268,
+                    "endLine": 179,
+                    "endColumn": 12,
+                    "endOffset": 13464
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 12951,
+                        "endLine": 173,
+                        "endColumn": 12,
+                        "endOffset": 13147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 13469,
+                    "endColumn": 88,
+                    "endOffset": 13553
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 13152,
+                        "endColumn": 88,
+                        "endOffset": 13236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 13558,
+                    "endColumn": 110,
+                    "endOffset": 13664
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 13241,
+                        "endColumn": 110,
+                        "endOffset": 13347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 13669,
+                    "endLine": 184,
+                    "endColumn": 12,
+                    "endOffset": 13897
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 13352,
+                        "endLine": 178,
+                        "endColumn": 12,
+                        "endOffset": 13580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 13902,
+                    "endColumn": 100,
+                    "endOffset": 13998
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 13585,
+                        "endColumn": 100,
+                        "endOffset": 13681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 14003,
+                    "endColumn": 94,
+                    "endOffset": 14093
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 13686,
+                        "endColumn": 94,
+                        "endOffset": 13776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 14098,
+                    "endColumn": 122,
+                    "endOffset": 14216
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 13781,
+                        "endColumn": 122,
+                        "endOffset": 13899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 14221,
+                    "endColumn": 128,
+                    "endOffset": 14345
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 13904,
+                        "endColumn": 128,
+                        "endOffset": 14028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 14350,
+                    "endColumn": 116,
+                    "endOffset": 14462
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 14033,
+                        "endColumn": 116,
+                        "endOffset": 14145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 14467,
+                    "endLine": 192,
+                    "endColumn": 12,
+                    "endOffset": 14639
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 14150,
+                        "endLine": 186,
+                        "endColumn": 12,
+                        "endOffset": 14322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 14644,
+                    "endColumn": 98,
+                    "endOffset": 14738
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 14327,
+                        "endColumn": 98,
+                        "endOffset": 14421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 14743,
+                    "endLine": 195,
+                    "endColumn": 12,
+                    "endOffset": 14873
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 14426,
+                        "endLine": 189,
+                        "endColumn": 12,
+                        "endOffset": 14556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 14878,
+                    "endLine": 197,
+                    "endColumn": 12,
+                    "endOffset": 15016
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 14561,
+                        "endLine": 191,
+                        "endColumn": 12,
+                        "endOffset": 14699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 15021,
+                    "endLine": 199,
+                    "endColumn": 12,
+                    "endOffset": 15151
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 14704,
+                        "endLine": 193,
+                        "endColumn": 12,
+                        "endOffset": 14834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 15156,
+                    "endLine": 201,
+                    "endColumn": 12,
+                    "endOffset": 15270
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 14839,
+                        "endLine": 195,
+                        "endColumn": 12,
+                        "endOffset": 14953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 15275,
+                    "endLine": 205,
+                    "endColumn": 12,
+                    "endOffset": 15471
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 14958,
+                        "endLine": 199,
+                        "endColumn": 12,
+                        "endOffset": 15154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 15476,
+                    "endLine": 207,
+                    "endColumn": 12,
+                    "endOffset": 15590
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 15159,
+                        "endLine": 201,
+                        "endColumn": 12,
+                        "endOffset": 15273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 15595,
+                    "endColumn": 92,
+                    "endOffset": 15683
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 15278,
+                        "endColumn": 92,
+                        "endOffset": 15366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 15688,
+                    "endColumn": 110,
+                    "endOffset": 15794
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 15371,
+                        "endColumn": 110,
+                        "endOffset": 15477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 15799,
+                    "endColumn": 55,
+                    "endOffset": 15850
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 15482,
+                        "endColumn": 55,
+                        "endOffset": 15533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 15855,
+                    "endLine": 212,
+                    "endColumn": 12,
+                    "endOffset": 15957
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 4,
+                        "startOffset": 15538,
+                        "endLine": 206,
+                        "endColumn": 12,
+                        "endOffset": 15640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 15962,
+                    "endLine": 216,
+                    "endColumn": 12,
+                    "endOffset": 16152
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 15645,
+                        "endLine": 210,
+                        "endColumn": 12,
+                        "endOffset": 15835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 16157,
+                    "endLine": 218,
+                    "endColumn": 12,
+                    "endOffset": 16263
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 15840,
+                        "endLine": 212,
+                        "endColumn": 12,
+                        "endOffset": 15946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 16268,
+                    "endLine": 220,
+                    "endColumn": 12,
+                    "endOffset": 16396
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 4,
+                        "startOffset": 15951,
+                        "endLine": 214,
+                        "endColumn": 12,
+                        "endOffset": 16079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 16401,
+                    "endColumn": 94,
+                    "endOffset": 16491
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 16084,
+                        "endColumn": 94,
+                        "endOffset": 16174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 16496,
+                    "endColumn": 90,
+                    "endOffset": 16582
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 4,
+                        "startOffset": 16179,
+                        "endColumn": 90,
+                        "endOffset": 16265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 16587,
+                    "endColumn": 90,
+                    "endOffset": 16673
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 16270,
+                        "endColumn": 90,
+                        "endOffset": 16356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 16678,
+                    "endColumn": 116,
+                    "endOffset": 16790
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 16361,
+                        "endColumn": 116,
+                        "endOffset": 16473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 16795,
+                    "endLine": 226,
+                    "endColumn": 12,
+                    "endOffset": 16929
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 4,
+                        "startOffset": 16478,
+                        "endLine": 220,
+                        "endColumn": 12,
+                        "endOffset": 16612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 16934,
+                    "endLine": 230,
+                    "endColumn": 12,
+                    "endOffset": 17133
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 17138,
+                    "endLine": 241,
+                    "endColumn": 12,
+                    "endOffset": 17892
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.2\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 17897,
+                    "endLine": 252,
+                    "endColumn": 12,
+                    "endOffset": 18643
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.0.2\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 814,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 1560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 18648,
+                    "endLine": 262,
+                    "endColumn": 12,
+                    "endOffset": 19156
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 4,
+                        "startOffset": 16617,
+                        "endLine": 230,
+                        "endColumn": 12,
+                        "endOffset": 17125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 19161,
+                    "endLine": 272,
+                    "endColumn": 12,
+                    "endOffset": 19681
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 4,
+                        "startOffset": 17130,
+                        "endLine": 240,
+                        "endColumn": 12,
+                        "endOffset": 17650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 19686,
+                    "endLine": 282,
+                    "endColumn": 12,
+                    "endOffset": 20361
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 17655,
+                        "endLine": 250,
+                        "endColumn": 12,
+                        "endOffset": 18330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 20366,
+                    "endColumn": 56,
+                    "endOffset": 20418
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 4,
+                        "startOffset": 18335,
+                        "endColumn": 56,
+                        "endOffset": 18387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 20423,
+                    "endColumn": 57,
+                    "endOffset": 20476
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 4,
+                        "startOffset": 18392,
+                        "endColumn": 57,
+                        "endOffset": 18445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 20481,
+                    "endLine": 287,
+                    "endColumn": 12,
+                    "endOffset": 20670
+                },
+                "from": {
+                    "file": "D:\\waibaoAPPChuangshijiahuang\\wiabaoApp\\SerDEpub1104\\WaiBaoFBEPUB1104\\WaiBaoFBEPUB\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 244
+                    }
+                }
+            }
+        ]
+    }
+]

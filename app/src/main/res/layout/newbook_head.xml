@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/y530"
+    android:background="@mipmap/beijing"
+    android:clipChildren="false"
+    >
+    <RelativeLayout
+        android:id="@+id/head_head"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y100"
+
+        android:orientation="horizontal">
+<!--android:background="@color/head_fragmen"-->
+        <RelativeLayout
+            android:id="@+id/newbook_head_comment"
+            android:layout_width="@dimen/x100"
+            android:layout_height="@dimen/y100">
+
+            <ImageView
+                android:layout_centerInParent="true"
+                android:layout_width="@dimen/x40"
+                android:layout_height="@dimen/y40"
+                android:background="@mipmap/xiaoxi"/>
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="新书推荐"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_font_big"/>
+
+        <RelativeLayout
+            android:id="@+id/newbook_head_search"
+            android:layout_width="@dimen/x100"
+            android:layout_height="@dimen/y100"
+            android:layout_alignParentRight="true">
+
+            <ImageView
+                android:layout_width="@dimen/x40"
+                android:layout_height="@dimen/y40"
+                android:layout_centerInParent="true"
+                android:background="@mipmap/sousuo"
+                />
+        </RelativeLayout>
+    </RelativeLayout>
+    <TextView
+
+        android:id="@+id/newbook_Vp_bookname"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y50"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="书名"
+        android:layout_marginBottom="@dimen/y5"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_font_small"/>
+    <!--com.jaydenxiao.androidfire.widget.MultiViewPager-->
+    <!--  android:layout_width="@dimen/x150"
+    vp_home_shuf
+        android:layout_height="@dimen/x225"-->
+    <android.support.v7.widget.RecyclerView
+        android:layout_below="@id/head_head"
+        android:id="@+id/vp_home_shuf"
+        android:layout_marginTop="@dimen/y40"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y300" />
+</RelativeLayout>

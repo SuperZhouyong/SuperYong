@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    package="me.codeboy.android.aligntextview"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:versionCode="3"
+    android:versionName="2.3.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+
+</manifest>

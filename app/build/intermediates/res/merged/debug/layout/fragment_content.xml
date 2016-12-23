@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.sxzx.view.NoScrollViewPager
+        android:id="@+id/vp_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <RadioGroup
+        android:id="@+id/rg_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/bottom_tab_bg"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/rb_newbook"
+            style="@style/Bottom_Tab_Style"
+            android:drawableTop="@drawable/tab_newbook_selector"
+            android:checked="true"
+            android:text="新书推荐" />
+
+        <RadioButton
+            android:id="@+id/rb_library"
+            style="@style/Bottom_Tab_Style"
+            android:drawableTop="@drawable/tab_libabry_selector"
+            android:text="政协书库" />
+
+        <RadioButton
+            android:id="@+id/rb_read"
+            style="@style/Bottom_Tab_Style"
+            android:drawableTop="@drawable/tab_readbook_selector"
+            android:text="委员读书" />
+
+        <RadioButton
+            android:id="@+id/rb_mybook"
+            style="@style/Bottom_Tab_Style"
+            android:drawableTop="@drawable/tab_mybooks_selector"
+            android:text="我的书库" />
+
+
+    </RadioGroup>
+
+</LinearLayout>

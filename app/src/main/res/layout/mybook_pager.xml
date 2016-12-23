@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<LinearLayout
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">-->
+
+    <android.support.design.widget.CoordinatorLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:fitsSystemWindows="true"
+        android:layout_height="match_parent">
+
+        <android.support.v4.view.ViewPager
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"
+            android:id="@+id/mybkVP"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/seach_item_deiver">
+
+        <RelativeLayout
+            android:id="@+id/mybookpage_rel"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/x400"
+            app:layout_scrollFlags="scroll|enterAlwaysCollapsed"
+            android:background="@mipmap/page4_background">
+            <!--android:layout_width="@dimen/x82"
+                android:layout_height="@dimen/x82"-->
+            <ImageView
+                android:id="@+id/ib2"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:background="@mipmap/back_login"/>
+
+            <com.sxzx.view.RoundImageView
+                android:id="@+id/buyandRecord"
+                android:layout_width="@dimen/x60"
+                android:layout_height="@dimen/y60"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:layout_toLeftOf="@id/ib2"
+                android:background="@mipmap/mybookpage1"
+                />
+
+            <com.sxzx.view.RoundImageView
+                android:id="@+id/To_SettingActivity"
+                android:layout_width="@dimen/x60"
+                android:layout_height="@dimen/y60"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@+id/ib2"
+                android:background="@mipmap/mybookpage3"
+                />
+
+            <TextView
+                android:textColor="@color/white"
+                android:id="@+id/tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="@dimen/x10"
+                android:text="Name"
+                android:textSize="@dimen/text_font_medium"/>
+        </RelativeLayout>
+
+        <android.support.design.widget.TabLayout
+
+            android:id="@+id/mybptablayout"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/x80"
+            android:layout_below="@id/mybookpage_rel"
+            app:tabBackground="@color/seach_item_deiver"
+            app:tabIndicatorColor="@color/indecttabs"
+            app:tabSelectedTextColor="@color/red"
+            app:tabTextColor="@color/white"/>
+    </android.support.design.widget.AppBarLayout>
+</android.support.design.widget.CoordinatorLayout>
+
+

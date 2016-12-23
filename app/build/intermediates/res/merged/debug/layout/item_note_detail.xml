@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_marginTop="@dimen/y70"
+        android:layout_marginLeft="@dimen/x50"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/Imag_note"
+            android:layout_width="@dimen/x30"
+            android:layout_height="@dimen/y30"
+            android:layout_gravity="center_vertical"
+            android:background="@mipmap/dian"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/Imag_note"
+            android:layout_marginLeft="@dimen/x20"
+            android:layout_toRightOf="@id/Imag_note"
+            android:text="10-03"
+            android:textColor="@color/head_fragmen"
+            android:textSize="20sp"/>
+    </LinearLayout>
+    <TextView
+        android:textColor="@color/black"
+        android:id="@+id/tv_note"
+        android:layout_marginTop="@dimen/y10"
+        android:layout_marginRight="@dimen/x50"
+        android:layout_marginLeft="@dimen/x50"
+        android:text="我是小说的一部分"
+        android:layout_below="@id/linear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:textColor="@color/gray"
+        android:layout_marginTop="@dimen/y20"
+        android:text="我是注解"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_note"
+        android:layout_marginRight="@dimen/x50"
+
+        android:layout_alignLeft="@+id/tv_note"
+        android:layout_alignStart="@+id/tv_note"
+        android:id="@+id/textView12"/>
+</RelativeLayout>

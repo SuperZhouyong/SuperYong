@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_search_item"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/y100"
+    android:orientation="horizontal"
+    >
+
+
+    <TextView
+        android:id="@+id/booklable"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/y100"
+        android:layout_weight="5"
+        android:ellipsize="end"
+        android:gravity="center_vertical"
+        android:maxLines="1"
+        android:paddingLeft="@dimen/x20"
+
+        android:textColor="@color/serach_item_bac"
+        android:textSize="@dimen/text_font_medium"/>
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="@dimen/y100"
+        android:layout_weight="1">
+
+        <ImageView
+            android:layout_width="@dimen/x40"
+            android:layout_height="@dimen/y40"
+            android:layout_centerInParent="true"
+            android:src="@mipmap/gengduo"/>
+    </RelativeLayout>
+</LinearLayout>

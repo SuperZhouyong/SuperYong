@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    >
+
+    <ImageView
+        android:id="@+id/iv_icon"
+        android:layout_width="100dp"
+        android:layout_height="130dp"
+        android:background="#a000"
+        android:padding="1dp"
+        android:scaleType="fitXY"
+        android:layout_marginRight="5dp"
+        android:src="@mipmap/newbook_icon" />
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/iv_icon"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:text="西游记"
+        android:textColor="#000"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_title"
+        android:layout_toRightOf="@+id/iv_icon"
+        android:text="施耐庵"
+        android:textColor="#8000"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:textSize="16sp" />
+    <TextView
+        android:layout_below="@+id/tv_name"
+        android:layout_toRightOf="@+id/iv_icon"
+        android:id="@+id/tv_introduction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="30dp"
+        android:text="我是介绍的爸爸看见本菲卡部分巴斯安东卫"/>
+
+</RelativeLayout>

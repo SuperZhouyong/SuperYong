@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.koolearn.android.kooreader.NavigationWindow
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/title_panel"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true"
+    android:background="#DF111111"
+    android:focusable="false"
+    android:orientation="horizontal"
+    android:visibility="visible">
+
+    <RelativeLayout
+        android:id="@+id/rl"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y100"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+        >
+
+        <LinearLayout
+            android:layout_centerVertical="true"
+            android:id="@+id/ll_ic_back"
+            android:layout_width="@dimen/x100"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical">
+
+            <ImageView
+                android:id="@+id/ic_back"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/x40"
+
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/x15"
+                android:background="@null"
+                android:src="@mipmap/new_write_arrows"/>
+        </LinearLayout>
+
+
+        <TextView
+
+            android:maxLines="1"
+            android:id="@+id/tv_title"
+            android:layout_width="@dimen/x200"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:ellipsize="middle"
+            android:gravity="center"
+            android:text="我是标题"
+            android:textColor="#fff"
+            android:textSize="16sp"/>
+
+        <ImageView
+            android:id="@+id/ic_mark"
+            android:layout_width="@dimen/x80"
+            android:layout_height="@dimen/y70"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/x15"
+            android:background="@mipmap/bookmarkepub"/>
+
+    </RelativeLayout>
+
+</com.koolearn.android.kooreader.NavigationWindow>

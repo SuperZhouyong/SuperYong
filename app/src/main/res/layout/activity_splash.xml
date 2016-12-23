@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/rl_root"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@mipmap/splashbeijing"
+                android:orientation="vertical">
+    <ImageView
+        android:layout_marginTop="@dimen/y180"
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/splashlogo" />
+    <ImageView
+        android:layout_below="@id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@mipmap/splashshuxiangzhengxie" />
+</RelativeLayout>

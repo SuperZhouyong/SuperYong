@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fitsSystemWindows="true"
+                android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y100"
+        android:background="@color/head_fragmen"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:id="@+id/setting_activity_about_return"
+            android:layout_width="@dimen/x100"
+            android:layout_height="@dimen/y100">
+
+            <ImageView
+                android:layout_width="@dimen/x40"
+                android:layout_height="@dimen/y40"
+                android:layout_centerInParent="true"
+
+                android:src="@mipmap/new_write_arrows"/>
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/x100"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:gravity="center"
+            android:text="关于我们"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_font_big"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_marginBottom="@dimen/y20"
+            android:layout_width="@dimen/x200"
+            android:layout_height="@dimen/y200"
+            android:src="@mipmap/about_icon"/>
+
+        <ImageView
+
+            android:layout_width="@dimen/x280"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/about_tv"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/y150"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="中国文史出版社 版权所有"
+            android:textColor="@color/new_book_title"
+            android:textSize="@dimen/text_font_medium"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/y10"
+            android:gravity="center_horizontal"
+            android:text="版本   1.0"
+            android:textColor="@color/version_title"
+            android:textSize="@dimen/text_font_med"/>
+
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,130 @@
+apply plugin: 'com.android.application'
+apply plugin: 'org.greenrobot.greendao'
+android {
+    compileSdkVersion 23
+    buildToolsVersion '23.0.3'
+    defaultConfig {
+        applicationId "com.example.lxj"
+        minSdkVersion 15
+        targetSdkVersion 21
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+        ndk {
+            moduleName "DeflatingDecompressor-v3"
+            abiFilters 'armeabi', 'x86'
+        }
+        manifestPlaceholders = [
+                JPUSH_PKGNAME : applicationId,
+                JPUSH_APPKEY : "360dd651914d6467a6685e2f", //JPush上注册的包名对应的appkey.
+                JPUSH_CHANNEL : "developer-default", //暂时填写默认值即可.
+        ]
+    }
+
+//
+//    keytool -exportcert -alias androiddebugkey -keystore  | openssl sha1 -binary | openssl
+
+//    http://jiagu.360.cn/protection?s=1
+    //    极光
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    // 防止 oom
+    dexOptions {
+        preDexLibraries = false
+        incremental true
+        javaMaxHeapSize "4g"
+    }
+    sourceSets.main {
+        jniLibs.srcDir 'src/main/libs'
+        jni.srcDirs = []
+    }
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+    productFlavors {
+    }
+}
+repositories {
+    flatDir {
+
+        dirs 'libs' // 存放aar的目录地址
+    }
+
+}
+greendao {
+    schemaVersion 1
+    daoPackage 'com.anye.greendao.gen'
+    targetGenDir 'src/main/java'
+}
+dependencies {
+    compile 'com.android.support:cardview-v7:24.2.1'
+    compile 'com.android.support:support-v4:24.2.1'
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'com.android.support:recyclerview-v7:24.2.1'
+    compile 'com.android.support:design:24.2.1'
+    compile 'de.hdodenhof:circleimageview:1.3.0'
+    compile 'com.google.code.gson:gson:2.4'
+    compile 'org.apache.httpcomponents:httpcore:4.4.2'
+    compile 'com.github.dmytrodanylyk.android-process-button:library:1.0.0'
+    compile files('libs/json-simple-1.1.1.jar')
+    compile files('libs/nanohttpd-2.0.5.jar')
+    compile 'com.github.johnpersano:supertoasts:1.3.4@aar'
+    compile 'com.github.yukuku:ambilwarna:2.0.1'
+    compile 'org.greenrobot:eventbus:3.0.0'
+    // 新增加的
+    compile 'com.jakewharton:butterknife:7.0.1'
+    //view注解
+    compile 'com.flyco.tablayout:FlycoTabLayout_Lib:2.0.8@aar'
+    /* compile 'io.reactivex:rxjava:1.0.1'
+        compile 'io.reactivex:rxandroid:1.0.1'*/
+    compile 'com.lzy.net:okgo:2.0.0'
+    //可以单独使用，不需要依赖下方的扩展包
+    //    compile 'com.lzy.net:okrx:0.1.0'
+    //RxJava扩展支持，根据需要添加
+    compile 'com.lzy.net:okserver:1.1.0'
+    //下载管理和上传管理扩展，根据需要添加
+    // hongyang的adapter
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    //  shareSDK 的短信功能
+    compile fileTree(includes: ['*.jar'], dir: 'libs')
+    compile name: 'SMSSDK-2.1.2', ext: 'aar'
+    compile name: 'SMSSDKGUI-2.1.2', ext: 'aar'
+    // 图片选择功能
+    compile 'com.lzy.widget:imagepicker:+'
+    //最新版本
+    //greendao 3.0
+    compile 'org.greenrobot:greendao:3.0.1'
+    compile 'org.greenrobot:greendao-generator:3.0.0'
+    // Rcy item 分割线
+    compile 'com.yqritc:recyclerview-flexibledivider:1.4.0'
+    // 华丽的小开关
+    compile 'com.kyleduo.switchbutton:library:1.4.4'
+    // 底部dialog
+    //    compile 'me.shaohui:bottomdialog:1.1.9'
+    /*  //字体对齐
+                            compile 'me.codeboy.android:align-text-view:2.3.0'*/
+    compile project(path: ':Refreshlibrary')
+    compile project(':Refreshlibrary')
+    // 数字progressbar
+    //    compile 'com.daimajia.numberprogressbar:library:1.2@aar'
+//    compile project(path: ':libraryProgress')
+    // dialog
+    compile 'com.afollestad.material-dialogs:commons:0.9.0.2'
+    // 极光推送
+//    compile 'cn.jiguang:jpush:2.1.8'
+    compile project(':bottomdialog')
+    compile 'me.codeboy.android:align-text-view:2.3.0'
+    compile project(':recyclerview-swipe')
+    /*  compile 'com.zhy:magic-viewpager:1.0.1'*/
+    //    compile 'me.drakeet.materialdialog:library:1.3.1'
+}

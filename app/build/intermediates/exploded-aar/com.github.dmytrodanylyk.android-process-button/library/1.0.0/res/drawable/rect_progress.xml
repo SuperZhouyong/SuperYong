@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="@dimen/corner_radius" />
+    <solid android:color="@color/purple_progress" />
+</shape><!-- From: file:/C:/Work/android-gradle-projects/process-button/library/src/main/res/drawable/rect_progress.xml -->

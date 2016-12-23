@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:custom="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:fitsSystemWindows="true"
+                android:orientation="vertical">
+
+    <RelativeLayout
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/x50"
+        android:layout_marginRight="@dimen/x50"
+
+        android:gravity="center_vertical">
+
+        <RelativeLayout
+            android:id="@+id/detail_relat"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/y450"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/bookdetail_head"
+            android:paddingLeft="@dimen/x20"
+            android:paddingRight="@dimen/x20"
+            >
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/iv_photo"
+                android:layout_marginLeft="@dimen/x20"
+                android:layout_marginTop="@dimen/x20"
+                android:layout_width="@dimen/x250"
+                android:layout_height="@dimen/y375"
+                app:cardElevation="@dimen/y10">
+
+                <ImageView
+
+                    android:id="@+id/iv_photo_img"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:adjustViewBounds="true"
+                    android:scaleType="centerCrop"
+                    android:transitionName="@string/transition_photos"
+                    tools:background="@mipmap/ic_empty_picture"
+                    tools:targetApi="lollipop"/>
+            </android.support.v7.widget.CardView>
+
+            <TextView
+                android:typeface="monospace"
+                android:id="@+id/new_book_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@id/iv_photo"
+                android:layout_marginLeft="@dimen/x20"
+                android:layout_marginRight="@dimen/item_margin"
+                android:layout_toRightOf="@+id/iv_photo"
+                android:maxLines="2"
+                android:ellipsize="end"
+                android:textColor="@color/detailTitle"
+                android:textSize="@dimen/text_font_medium"
+                tools:text="书名"/>
+
+            <TextView
+                android:typeface="monospace"
+                android:id="@+id/new_book_author"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/new_book_name"
+                android:layout_marginLeft="@dimen/x20"
+                android:layout_marginTop="@dimen/y30"
+                android:layout_toRightOf="@id/iv_photo"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:textAppearance="@style/TextAppearance.AppCompat.Small"
+                android:textColor="@color/setting_ziliao_item_de"
+                android:textSize="@dimen/text_font_small"
+                tools:text="作者"
+                />
+
+            <LinearLayout
+                android:layout_width="@dimen/x300"
+                android:layout_height="@dimen/y100"
+
+                android:layout_below="@id/new_book_author"
+                android:layout_marginBottom="@dimen/y110"
+                android:layout_marginLeft="@dimen/x20"
+                android:layout_marginTop="@dimen/y70"
+                android:layout_toRightOf="@id/iv_photo"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="1">
+
+                    <ImageView
+                        android:id="@+id/img_read_size"
+                        android:layout_width="@dimen/x35"
+                        android:layout_height="@dimen/y35"
+                        android:layout_centerVertical="true"
+                        android:background="@mipmap/readsize"/>
+
+                    <TextView
+                        android:typeface="monospace"
+                        android:id="@+id/bookdetil_haveread"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/y40"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/x25"
+                        android:layout_toRightOf="@id/img_read_size"
+                        android:textColor="@color/setting_ziliao_item_de"
+                        />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_marginLeft="@dimen/x2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="1">
+
+                    <ImageView
+                        android:id="@+id/img_fize_size"
+                        android:layout_width="@dimen/x30"
+                        android:layout_height="@dimen/y30"
+                        android:layout_centerVertical="true"
+                        android:background="@mipmap/filesize"/>
+
+                    <TextView
+                        android:typeface="monospace"
+                        android:paddingLeft="@dimen/x3"
+                        android:id="@+id/bookdetil_size"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/y40"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/x25"
+                        android:layout_toRightOf="@id/img_fize_size"
+                        android:textColor="@color/setting_ziliao_item_de"
+                        />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y70"
+
+                android:layout_alignBottom="@id/iv_photo"
+                android:layout_marginLeft="@dimen/x20"
+                android:layout_marginRight="@dimen/x20"
+
+                android:layout_toRightOf="@id/iv_photo"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                >
+
+                <TextView
+                    android:typeface="monospace"
+                    android:id="@+id/textView8"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/y60"
+                    android:layout_marginRight="@dimen/x10"
+                    android:layout_weight="2"
+                    android:background="@drawable/free_se_read_detil"
+                    android:gravity="center"
+                    android:text="阅读"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_font_medium"/>
+
+                <TextView
+                    android:id="@+id/textView7"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/y60"
+                    android:typeface="monospace"
+                    android:layout_weight="3"
+                    android:background="@drawable/freeread_detil"
+                    android:gravity="center"
+                    android:text="已加入"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_font_medium"/>
+
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/detail_relat"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textview_description"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y60"
+                android:layout_below="@+id/detail_relat"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:typeface="monospace"
+                android:paddingLeft="@dimen/x20"
+                android:paddingRight="@dimen/x20"
+                android:text="简介"
+                android:textColor="@color/jianjie"
+                android:textSize="@dimen/text_font_medium"/>
+
+            <com.sxzx.view.BounceScrollView
+                android:typeface="monospace"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y400"
+                android:background="@color/white"
+                android:scrollbars="none"
+                >
+
+                <TextView
+                    android:paddingBottom="@dimen/y10"
+                    android:typeface="monospace"
+                    android:id="@+id/detil_description"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+
+                    android:lineSpacingExtra="@dimen/x7"
+                    android:lineSpacingMultiplier="1.2"
+                    android:paddingLeft="@dimen/x20"
+                    android:paddingRight="@dimen/x20"
+                    android:textColor="@color/descdrtail"
+
+
+                    android:textSize="@dimen/text_font_med"
+                    />
+            </com.sxzx.view.BounceScrollView>
+
+            <!--  <com.daimajia.numberprogressbar.NumberProgressBar
+                  android:id="@+id/numberbar1"
+                  style="@style/NumberProgressBar_Default"
+                  android:layout_width="match_parent"
+                  android:layout_height="@dimen/y30"
+                  android:layout_above="@+id/detil_buy_button"
+                  android:layout_alignParentLeft="true"
+                  android:layout_alignParentStart="true"
+                  custom:progress_current="0"/>-->
+
+
+            <Button
+                android:id="@+id/detil_buy_button"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/x80"
+                android:typeface="monospace"
+                android:background="@drawable/buy_read_detil"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_font_medium"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>
+<!---->
+<!--
+    <?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:custom="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:fitsSystemWindows="true"
+                android:orientation="vertical">
+
+<RelativeLayout
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    android:layout_centerVertical="true"
+    android:layout_marginLeft="@dimen/x50"
+    android:layout_marginRight="@dimen/x50"
+
+    android:gravity="center_vertical">
+
+    <RelativeLayout
+        android:id="@+id/detail_relat"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y450"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/bookdetail_head"
+        android:paddingLeft="@dimen/x20"
+        android:paddingRight="@dimen/x20"
+        >
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/iv_photo"
+            android:layout_marginLeft="@dimen/x20"
+            android:layout_marginTop="@dimen/x20"
+            android:layout_width="@dimen/x250"
+            android:layout_height="@dimen/y375"
+            app:cardElevation="@dimen/y10">
+
+            <ImageView
+
+                android:id="@+id/iv_photo_img"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"
+                android:transitionName="@string/transition_photos"
+                tools:background="@mipmap/ic_empty_picture"
+                tools:targetApi="lollipop"/>
+        </android.support.v7.widget.CardView>
+
+        <TextView
+            android:typeface="monospace"
+            android:id="@+id/new_book_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/iv_photo"
+            android:layout_marginLeft="@dimen/x20"
+            android:layout_marginRight="@dimen/item_margin"
+            android:layout_toRightOf="@+id/iv_photo"
+            android:maxLines="2"
+            android:ellipsize="end"
+            android:textColor="@color/detailTitle"
+            android:textSize="@dimen/text_font_medium"
+            tools:text="书名"/>
+
+        <TextView
+            android:typeface="monospace"
+            android:id="@+id/new_book_author"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/new_book_name"
+            android:layout_marginLeft="@dimen/x20"
+            android:layout_marginTop="@dimen/y30"
+            android:layout_toRightOf="@id/iv_photo"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:textColor="@color/setting_ziliao_item_de"
+            android:textSize="@dimen/text_font_small"
+            tools:text="作者"
+            />
+
+        <LinearLayout
+            android:layout_width="@dimen/x300"
+            android:layout_height="@dimen/y100"
+
+            android:layout_below="@id/new_book_author"
+            android:layout_marginBottom="@dimen/y110"
+            android:layout_marginLeft="@dimen/x20"
+            android:layout_marginTop="@dimen/y70"
+            android:layout_toRightOf="@id/iv_photo"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+
+                <ImageView
+                    android:id="@+id/img_read_size"
+                    android:layout_width="@dimen/x35"
+                    android:layout_height="@dimen/y35"
+                    android:layout_centerVertical="true"
+                    android:background="@mipmap/readsize"/>
+
+                <TextView
+                    android:typeface="monospace"
+                    android:id="@+id/bookdetil_haveread"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/y40"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/x25"
+                    android:layout_toRightOf="@id/img_read_size"
+                    android:textColor="@color/setting_ziliao_item_de"
+                    />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_marginLeft="@dimen/x2"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+
+                <ImageView
+                    android:id="@+id/img_fize_size"
+                    android:layout_width="@dimen/x30"
+                    android:layout_height="@dimen/y30"
+                    android:layout_centerVertical="true"
+                    android:background="@mipmap/filesize"/>
+
+                <TextView
+                    android:typeface="monospace"
+                    android:paddingLeft="@dimen/x3"
+                    android:id="@+id/bookdetil_size"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/y40"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/x25"
+                    android:layout_toRightOf="@id/img_fize_size"
+                    android:textColor="@color/setting_ziliao_item_de"
+                    />
+
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/y70"
+
+            android:layout_alignBottom="@id/iv_photo"
+            android:layout_marginLeft="@dimen/x20"
+            android:layout_marginRight="@dimen/x20"
+
+            android:layout_toRightOf="@id/iv_photo"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:typeface="monospace"
+                android:id="@+id/textView8"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/y60"
+                android:layout_marginRight="@dimen/x10"
+                android:layout_weight="2"
+                android:background="@drawable/free_se_read_detil"
+                android:gravity="center"
+                android:text="试读"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_font_medium"/>
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/y60"
+                android:typeface="monospace"
+                android:layout_weight="3"
+                android:background="@drawable/freeread_detil"
+                android:gravity="center"
+                android:text="加入书架"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_font_medium"/>
+
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/detail_relat"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textview_description"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/y60"
+            android:layout_below="@+id/detail_relat"
+            android:background="@color/white"
+            android:gravity="center_vertical"
+            android:typeface="monospace"
+            android:paddingLeft="@dimen/x20"
+            android:paddingRight="@dimen/x20"
+            android:text="简介"
+            android:textColor="@color/jianjie"
+            android:textSize="@dimen/text_font_medium"/>
+
+        <com.sxzx.view.BounceScrollView
+            android:typeface="monospace"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/y400"
+            android:background="@color/white"
+            android:scrollbars="none"
+            >
+
+            <me.codeboy.android.aligntextview.AlignTextView
+                android:paddingBottom="@dimen/y10"
+                android:typeface="monospace"
+                android:id="@+id/detil_description"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:lineSpacingExtra="@dimen/y10"
+                android:paddingLeft="@dimen/x20"
+                android:paddingRight="@dimen/x20"
+                android:textColor="@color/descdrtail"
+
+
+                android:textSize="@dimen/text_font_med"
+                />
+        </com.sxzx.view.BounceScrollView>
+
+        &lt;!&ndash;  <com.daimajia.numberprogressbar.NumberProgressBar
+              android:id="@+id/numberbar1"
+              style="@style/NumberProgressBar_Default"
+              android:layout_width="match_parent"
+              android:layout_height="@dimen/y30"
+              android:layout_above="@+id/detil_buy_button"
+              android:layout_alignParentLeft="true"
+              android:layout_alignParentStart="true"
+              custom:progress_current="0"/>&ndash;&gt;
+        <com.daimajia.numberprogressbar.NumberProgressBar
+            android:id="@+id/numberbar1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            custom:progress_current="0"
+            custom:progress_max="100"
+            custom:progress_reached_bar_height="4dp"
+            custom:progress_reached_color="@color/red"
+            custom:progress_text_color="#3498DB"
+            custom:progress_text_offset="1dp"
+            custom:progress_text_size="10sp"
+            custom:progress_text_visibility="visible"
+            custom:progress_unreached_bar_height="3dp"
+            android:typeface="monospace"
+            custom:progress_unreached_color="#CCCCCC"
+
+
+            />
+
+        <Button
+            android:id="@+id/detil_buy_button"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/x80"
+            android:typeface="monospace"
+            android:background="@drawable/buy_read_detil"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_font_medium"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
+
+
+</RelativeLayout>-->
